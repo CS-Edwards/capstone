@@ -4,3 +4,6 @@ config.py
 #Ignore virtual env 
 /venv/
 /myEnv/
+
+#Ignore __pycache__
+__pycache__/
