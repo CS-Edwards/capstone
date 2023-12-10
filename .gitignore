@@ -1,0 +1,6 @@
+#Ignore config files HIDE keys
+config.py
+
+#Ignore virtual env 
+/venv/
+/myEnv/
