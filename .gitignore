@@ -1,6 +1,12 @@
 #Ignore config files HIDE keys
 /python/config.py
 
+#Ignore log files
+/python/error_log.txt
+
+#Ignore data files
+/data/prompts/test_batch_1
+
 #Ignore virtual env 
 /venv/
 /myEnv/
